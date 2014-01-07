@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "description": "Examples to practice debugging",
   "author": "Doug DiFilippo (dougflip)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "node-inspector": "~0.7.0-1"
+  }
 }
