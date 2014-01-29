@@ -1,4 +1,5 @@
 ## Quick Start
+The source files for [Debugging in Node](http://www.summa-tech.com/blog/2014/01/21/debugging-in-node/) blog post.
 
 #### Console Debugging
 
